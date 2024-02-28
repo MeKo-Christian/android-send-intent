@@ -22,9 +22,6 @@ logs
 *.log
 npm-debug.log*
 
-# Build artifacts
-/www/
-
 # Temporary files
 tmp/
 temp/
