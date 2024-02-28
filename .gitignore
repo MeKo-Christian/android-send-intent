@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+
+# Cordova directories
+platforms/
+plugins/
+
+# Various IDEs and editors
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build artifacts
+/www/
+
+# Temporary files
+tmp/
+temp/
