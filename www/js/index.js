@@ -8,7 +8,7 @@ document.addEventListener(
         // Define the fake scan data
         var fakeScanData = "1234567890"; // Example barcode data
         var intent = {
-          action: "de.meko.scan",
+          action: "de.meko.scan.plugin.intent.ACTION",
           category: ["android.intent.category.DEFAULT"],
           extras: {
             "com.symbol.datawedge.data_string": fakeScanData,
